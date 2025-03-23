@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hey there!  I'm Elango T
 
-<!--
-**elango-t/elango-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Competitive Programmer | Full Stack Developer  
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=500&color=FFFFFF&vCenter=true&width=700&lines=Competitive+Programmer;Full+Stack+Developer;)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---  
+
+### 🔹 About Me  
+
+💻 I'm a **competitive programmer** with a strong passion for problem-solving. I love coding in **C, C++, and JavaScript**, and I enjoy optimizing solutions for efficiency.  
+
+🎓 **Pursuing Computer and Communication Engineering** at Sri Eshwar College of Engineering  
+
+🌍 **Based in Tirupur, Tamil Nadu, India**  
+
+---  
+
+### 📫 Let's Connect  
+
+✉️ **Gmail:** [elango.t2022cce@sece.ac.in](mailto:elango.t2022cce@sece.ac.in)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elango-thangavel-9b7497248/)  
+
+
